@@ -84,6 +84,12 @@ The textile and garment industry involves intricate processes such as spinning, 
 
 ---
 
-## 📜 **License**
+## 📜 **License and Access**
 
-This project is proprietary and intended for use within the textile and garment industry. Redistribution or modification without explicit permission is prohibited.
+This project is proprietary software developed by **Infocrat Solutions Limited** for the textile and garment industry. The source code, including backend logic, front-end interfaces, and related assets, is **protected** and **not publicly accessible**.  
+
+- Redistribution, modification, or unauthorized use of the codebase is strictly prohibited without explicit permission from **Infocrat Solutions Limited**.  
+- The code is managed in a secure environment and complies with industry-standard security practices to ensure confidentiality and integrity.  
+
+For inquiries regarding the project, please contact **Infocrat Solutions Limited** at [info@infocratsolutions.com](mailto:info@infocratsolutions.com).  
+
