@@ -93,6 +93,6 @@ This project is proprietary software developed by **Infocrat Solutions Limited**
 
 For inquiries regarding the project, please contact **Infocrat Solutions Limited** at [info@infocratsolutions.com](mailto:info@infocratsolutions.com).  
 
-## Disclaimer
+## ⚠️ Disclaimer
 This project is a back-office ERP solution developed for internal operations in the textile industry. As it is intended for internal use by Infocrat Solutions Limited, a public website link or demo is not available. Access to the codebase and deployed application is restricted to authorized personnel only.
 
